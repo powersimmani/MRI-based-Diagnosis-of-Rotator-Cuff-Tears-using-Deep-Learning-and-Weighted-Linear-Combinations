@@ -19,7 +19,7 @@ The number of total data is 2,447 and is classified into 3 imbalanced classes. E
 </ul>
 
 
-Each data contains 16 image files of 512x512 size. Those are the (coronally) sliced images of a 3-D T2 MRI. The physical gap between each image is known to be about 2mm. Sample image stream for each class is as follows. (Normal, Partial-thickness tear, followed by Full-thickness tear)
+Each data contains 16 image files of 512x512 size. Those are the (coronally) sliced images of a 3-D T2 MRI. The physical gap between each image is known to be about 2mm. Sample image stream for each class is as follows. (Normal, Partial-thickness tear, and Full-thickness tear)
 
 ![RCT_description](images/normal.png?raw=true "RCT_description")
 ![RCT_description](images/partial.png?raw=true "RCT_description")
@@ -37,6 +37,6 @@ https://forms.gle/52MK9wJVokmrKb8z5
 
 ## Citation 
 
-Readers may use the following information to cite our research and the datasets used in it.
+Readers may use the following information to cite our research and the dataset.
 
 Kim, M., Park, H., Kim, J.Y., Kim, S.H., Hoeke, S. & De Neve, W.. (2020). MRI-based Diagnosis of Rotator Cuff Tears using Deep Learning and Weighted Linear Combinations. Proceedings of the 5th Machine Learning for Healthcare Conference, in PMLR 126:292-308
