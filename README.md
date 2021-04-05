@@ -27,7 +27,7 @@ Each data contains 16 image files of 512x512 size. Those are the (coronally) sli
 
 
 
-## Download dataset
+## Download dataset (7.96 GB)
 
 Readers who want to contribute to the MRI based Computer Aided Rotator Cuff Tears Diagnosis can get the download link at the following address.
 
