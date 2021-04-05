@@ -1,3 +1,6 @@
+!!!!! Sorry this git is not activated. the git is only used for testing at the moment. We will open the form after June. !!!!!
+
+
 # MRI based Diagnosis of Rotator Cuff Tears using Deep Learning and Weighted Linear Combinations
 
 ![RCT_description](images/RCT_description.png?raw=true "RCT_description")
