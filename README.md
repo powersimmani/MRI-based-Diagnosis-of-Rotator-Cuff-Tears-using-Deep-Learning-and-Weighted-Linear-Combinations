@@ -21,8 +21,13 @@ The total number of MRI scans is 2,447. These MRI scans have been classified int
 
  Each MRI scan contains 16 images (slices) with a spatial resolution 512x512. These images denote the (coronally) sliced images of a 3-D T2 MRI scan. The physical gap between two such images is about 2mm. The sample image stream for each class is as follows: normal, partial-thickness tear, and full-thickness tear.
 
+##### Class: Normal
 ![RCT_description](images/normal.png?raw=true "RCT_description")
+
+##### Class: Partial-thickness tear
 ![RCT_description](images/partial.png?raw=true "RCT_description")
+
+##### Class: Full-thickness tear
 ![RCT_description](images/full.png?raw=true "RCT_description")
 
 
