@@ -1,4 +1,4 @@
-\\<!--**** This GitHub page is not activated yet; this GitHub page is only used for testing at the moment.  We will make this GitHub page publicly available after June. ****-->
+<!--**** This GitHub page is not activated yet; this GitHub page is only used for testing at the moment.  We will make this GitHub page publicly available after June. **** -->
 
 # MRI-based Diagnosis of Rotator Cuff Tears using Deep Learning and Weighted Linear Combinations
 
