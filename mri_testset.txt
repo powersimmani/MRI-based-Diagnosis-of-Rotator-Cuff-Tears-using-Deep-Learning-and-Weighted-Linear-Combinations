@@ -1,0 +1,242 @@
+../Total_RCT_dataset/Normal/419 0
+../Total_RCT_dataset/Normal/2086 0
+../Total_RCT_dataset/Normal/1990 0
+../Total_RCT_dataset/Normal/2129 0
+../Total_RCT_dataset/Normal/1875 0
+../Total_RCT_dataset/Normal/310 0
+../Total_RCT_dataset/Normal/1308 0
+../Total_RCT_dataset/Normal/24 0
+../Total_RCT_dataset/Normal/2095 0
+../Total_RCT_dataset/Normal/494 0
+../Total_RCT_dataset/Normal/196 0
+../Total_RCT_dataset/Normal/644 0
+../Total_RCT_dataset/Normal/982 0
+../Total_RCT_dataset/Normal/2511 0
+../Total_RCT_dataset/Normal/898 0
+../Total_RCT_dataset/Normal/2463 0
+../Total_RCT_dataset/Normal/1230 0
+../Total_RCT_dataset/Normal/1340 0
+../Total_RCT_dataset/Normal/84 0
+../Total_RCT_dataset/Normal/426 0
+../Total_RCT_dataset/Normal/1651 0
+../Total_RCT_dataset/Normal/314 0
+../Total_RCT_dataset/Normal/776 0
+../Total_RCT_dataset/Normal/684 0
+../Total_RCT_dataset/Normal/415 0
+../Total_RCT_dataset/Normal/786 0
+../Total_RCT_dataset/Normal/488 0
+../Total_RCT_dataset/Normal/1445 0
+../Total_RCT_dataset/Normal/363 0
+../Total_RCT_dataset/Normal/424 0
+../Total_RCT_dataset/Normal/938 0
+../Total_RCT_dataset/Normal/1377 0
+../Total_RCT_dataset/Normal/1331 0
+../Total_RCT_dataset/Normal/1756 0
+../Total_RCT_dataset/Normal/78 0
+../Total_RCT_dataset/Normal/416 0
+../Total_RCT_dataset/Normal/867 0
+../Total_RCT_dataset/Normal/2416 0
+../Total_RCT_dataset/Normal/2473 0
+../Total_RCT_dataset/Normal/1583 0
+../Total_RCT_dataset/Normal/1395 0
+../Total_RCT_dataset/Normal/2356 0
+../Total_RCT_dataset/Normal/408 0
+../Total_RCT_dataset/Normal/1241 0
+../Total_RCT_dataset/Normal/870 0
+../Total_RCT_dataset/Normal/1827 0
+../Total_RCT_dataset/Normal/1269 0
+../Total_RCT_dataset/Normal/911 0
+../Total_RCT_dataset/Normal/795 0
+../Total_RCT_dataset/Normal/2279 0
+../Total_RCT_dataset/Normal/2089 0
+../Total_RCT_dataset/Normal/2551 0
+../Total_RCT_dataset/Normal/889 0
+../Total_RCT_dataset/Normal/1224 0
+../Total_RCT_dataset/Normal/2419 0
+../Total_RCT_dataset/Normal/2097 0
+../Total_RCT_dataset/Normal/2373 0
+../Total_RCT_dataset/Normal/1776 0
+../Total_RCT_dataset/Normal/244 0
+../Total_RCT_dataset/Normal/2448 0
+../Total_RCT_dataset/Normal/2508 0
+../Total_RCT_dataset/Normal/1740 0
+../Total_RCT_dataset/Normal/1504 0
+../Total_RCT_dataset/Normal/315 0
+../Total_RCT_dataset/Normal/890 0
+../Total_RCT_dataset/Normal/1779 0
+../Total_RCT_dataset/Normal/1796 0
+../Total_RCT_dataset/Normal/2020 0
+../Total_RCT_dataset/Normal/673 0
+../Total_RCT_dataset/Normal/1953 0
+../Total_RCT_dataset/Normal/319 0
+../Total_RCT_dataset/Normal/1721 0
+../Total_RCT_dataset/Normal/213 0
+../Total_RCT_dataset/Normal/2311 0
+../Total_RCT_dataset/Normal/863 0
+../Total_RCT_dataset/Normal/1531 0
+../Total_RCT_dataset/Normal/336 0
+../Total_RCT_dataset/Normal/17 0
+../Total_RCT_dataset/Normal/428 0
+../Total_RCT_dataset/Normal/2136 0
+../Total_RCT_dataset/Normal/2505 0
+../Total_RCT_dataset/Normal/454 0
+../Total_RCT_dataset/Normal/779 0
+../Total_RCT_dataset/Normal/1798 0
+../Total_RCT_dataset/Normal/2404 0
+../Total_RCT_dataset/Normal/1892 0
+../Total_RCT_dataset/Normal/152 0
+../Total_RCT_dataset/Normal/2589 0
+../Total_RCT_dataset/Normal/477 0
+../Total_RCT_dataset/Normal/1339 0
+../Total_RCT_dataset/Normal/2160 0
+../Total_RCT_dataset/Normal/875 0
+../Total_RCT_dataset/Normal/935 0
+../Total_RCT_dataset/Normal/595 0
+../Total_RCT_dataset/Normal/432 0
+../Total_RCT_dataset/Normal/1221 0
+../Total_RCT_dataset/Normal/1767 0
+../Total_RCT_dataset/Normal/665 0
+../Total_RCT_dataset/Normal/1588 0
+../Total_RCT_dataset/Normal/1979 0
+../Total_RCT_dataset/Normal/263 0
+../Total_RCT_dataset/Normal/1010 0
+../Total_RCT_dataset/Normal/2512 0
+../Total_RCT_dataset/Normal/1698 0
+../Total_RCT_dataset/Normal/2209 0
+../Total_RCT_dataset/Normal/40 0
+../Total_RCT_dataset/Normal/1104 0
+../Total_RCT_dataset/Normal/1397 0
+../Total_RCT_dataset/Normal/498 0
+../Total_RCT_dataset/Normal/2457 0
+../Total_RCT_dataset/Normal/1234 0
+../Total_RCT_dataset/Normal/988 0
+../Total_RCT_dataset/Normal/800 0
+../Total_RCT_dataset/Normal/2263 0
+../Total_RCT_dataset/Normal/2166 0
+../Total_RCT_dataset/Normal/1300 0
+../Total_RCT_dataset/Normal/1863 0
+../Total_RCT_dataset/Normal/741 0
+../Total_RCT_dataset/Normal/2005 0
+../Total_RCT_dataset/Normal/1326 0
+../Total_RCT_dataset/Normal/655 0
+../Total_RCT_dataset/Normal/414 0
+../Total_RCT_dataset/Normal/1056 0
+../Total_RCT_dataset/Normal/611 0
+../Total_RCT_dataset/Normal/1218 0
+../Total_RCT_dataset/Normal/163 0
+../Total_RCT_dataset/Normal/1501 0
+../Total_RCT_dataset/Normal/834 0
+../Total_RCT_dataset/Normal/1034 0
+../Total_RCT_dataset/Normal/364 0
+../Total_RCT_dataset/Normal/966 0
+../Total_RCT_dataset/Normal/1295 0
+../Total_RCT_dataset/Normal/829 0
+../Total_RCT_dataset/Normal/437 0
+../Total_RCT_dataset/Normal/2271 0
+../Total_RCT_dataset/Normal/2117 0
+../Total_RCT_dataset/Normal/1653 0
+../Total_RCT_dataset/Normal/1475 0
+../Total_RCT_dataset/Normal/1629 0
+../Total_RCT_dataset/Normal/192 0
+../Total_RCT_dataset/Normal/719 0
+../Total_RCT_dataset/Normal/105 0
+../Total_RCT_dataset/Normal/979 0
+../Total_RCT_dataset/Normal/575 0
+../Total_RCT_dataset/Normal/1594 0
+../Total_RCT_dataset/Normal/1739 0
+../Total_RCT_dataset/Normal/2193 0
+../Total_RCT_dataset/Normal/69 0
+../Total_RCT_dataset/Normal/453 0
+../Total_RCT_dataset/Normal/2099 0
+../Total_RCT_dataset/Normal/1462 0
+../Total_RCT_dataset/Normal/2213 0
+../Total_RCT_dataset/Normal/2185 0
+../Total_RCT_dataset/Normal/1621 0
+../Total_RCT_dataset/Normal/206 0
+../Total_RCT_dataset/Normal/31 0
+../Total_RCT_dataset/Normal/816 0
+../Total_RCT_dataset/Normal/1624 0
+../Total_RCT_dataset/Normal/1049 0
+../Total_RCT_dataset/Normal/300 0
+../Total_RCT_dataset/Partial-thickness tear/2430 1
+../Total_RCT_dataset/Partial-thickness tear/773 1
+../Total_RCT_dataset/Partial-thickness tear/1463 1
+../Total_RCT_dataset/Partial-thickness tear/1489 1
+../Total_RCT_dataset/Partial-thickness tear/338 1
+../Total_RCT_dataset/Partial-thickness tear/2172 1
+../Total_RCT_dataset/Partial-thickness tear/932 1
+../Total_RCT_dataset/Partial-thickness tear/1718 1
+../Total_RCT_dataset/Partial-thickness tear/353 1
+../Total_RCT_dataset/Partial-thickness tear/71 1
+../Total_RCT_dataset/Partial-thickness tear/1829 1
+../Total_RCT_dataset/Partial-thickness tear/2625 1
+../Total_RCT_dataset/Partial-thickness tear/1105 1
+../Total_RCT_dataset/Partial-thickness tear/2338 1
+../Total_RCT_dataset/Partial-thickness tear/1422 1
+../Total_RCT_dataset/Partial-thickness tear/324 1
+../Total_RCT_dataset/Full-thickness tear/274 2
+../Total_RCT_dataset/Full-thickness tear/1897 2
+../Total_RCT_dataset/Full-thickness tear/768 2
+../Total_RCT_dataset/Full-thickness tear/899 2
+../Total_RCT_dataset/Full-thickness tear/142 2
+../Total_RCT_dataset/Full-thickness tear/903 2
+../Total_RCT_dataset/Full-thickness tear/2017 2
+../Total_RCT_dataset/Full-thickness tear/2445 2
+../Total_RCT_dataset/Full-thickness tear/1870 2
+../Total_RCT_dataset/Full-thickness tear/2027 2
+../Total_RCT_dataset/Full-thickness tear/1785 2
+../Total_RCT_dataset/Full-thickness tear/2515 2
+../Total_RCT_dataset/Full-thickness tear/190 2
+../Total_RCT_dataset/Full-thickness tear/133 2
+../Total_RCT_dataset/Full-thickness tear/1995 2
+../Total_RCT_dataset/Full-thickness tear/2633 2
+../Total_RCT_dataset/Full-thickness tear/1825 2
+../Total_RCT_dataset/Full-thickness tear/865 2
+../Total_RCT_dataset/Full-thickness tear/1162 2
+../Total_RCT_dataset/Full-thickness tear/2220 2
+../Total_RCT_dataset/Full-thickness tear/1742 2
+../Total_RCT_dataset/Full-thickness tear/462 2
+../Total_RCT_dataset/Full-thickness tear/995 2
+../Total_RCT_dataset/Full-thickness tear/7 2
+../Total_RCT_dataset/Full-thickness tear/402 2
+../Total_RCT_dataset/Full-thickness tear/1228 2
+../Total_RCT_dataset/Full-thickness tear/246 2
+../Total_RCT_dataset/Full-thickness tear/303 2
+../Total_RCT_dataset/Full-thickness tear/1988 2
+../Total_RCT_dataset/Full-thickness tear/1600 2
+../Total_RCT_dataset/Full-thickness tear/1252 2
+../Total_RCT_dataset/Full-thickness tear/1217 2
+../Total_RCT_dataset/Full-thickness tear/2291 2
+../Total_RCT_dataset/Full-thickness tear/2156 2
+../Total_RCT_dataset/Full-thickness tear/759 2
+../Total_RCT_dataset/Full-thickness tear/1277 2
+../Total_RCT_dataset/Full-thickness tear/1559 2
+../Total_RCT_dataset/Full-thickness tear/1114 2
+../Total_RCT_dataset/Full-thickness tear/1457 2
+../Total_RCT_dataset/Full-thickness tear/1189 2
+../Total_RCT_dataset/Full-thickness tear/1281 2
+../Total_RCT_dataset/Full-thickness tear/1989 2
+../Total_RCT_dataset/Full-thickness tear/559 2
+../Total_RCT_dataset/Full-thickness tear/1517 2
+../Total_RCT_dataset/Full-thickness tear/2593 2
+../Total_RCT_dataset/Full-thickness tear/277 2
+../Total_RCT_dataset/Full-thickness tear/233 2
+../Total_RCT_dataset/Full-thickness tear/287 2
+../Total_RCT_dataset/Full-thickness tear/368 2
+../Total_RCT_dataset/Full-thickness tear/2059 2
+../Total_RCT_dataset/Full-thickness tear/2359 2
+../Total_RCT_dataset/Full-thickness tear/2187 2
+../Total_RCT_dataset/Full-thickness tear/475 2
+../Total_RCT_dataset/Full-thickness tear/729 2
+../Total_RCT_dataset/Full-thickness tear/2478 2
+../Total_RCT_dataset/Full-thickness tear/365 2
+../Total_RCT_dataset/Full-thickness tear/1080 2
+../Total_RCT_dataset/Full-thickness tear/1731 2
+../Total_RCT_dataset/Full-thickness tear/2628 2
+../Total_RCT_dataset/Full-thickness tear/2585 2
+../Total_RCT_dataset/Full-thickness tear/1196 2
+../Total_RCT_dataset/Full-thickness tear/457 2
+../Total_RCT_dataset/Full-thickness tear/2163 2
+../Total_RCT_dataset/Full-thickness tear/2308 2
+../Total_RCT_dataset/Full-thickness tear/1176 2
+../Total_RCT_dataset/Full-thickness tear/234 2
